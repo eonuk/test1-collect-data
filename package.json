@@ -1,0 +1,23 @@
+{
+  "name": "test1-collect-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node collectData.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eonuk/test1-collect-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eonuk/test1-collect-data/issues"
+  },
+  "homepage": "https://github.com/eonuk/test1-collect-data#readme",
+  "dependencies": {
+    "superagent": "^5.2.1"
+  }
+}
