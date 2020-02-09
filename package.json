@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/eonuk/test1-collect-data#readme",
   "dependencies": {
+    "moment": "^2.24.0",
     "superagent": "^5.2.1"
   }
 }
